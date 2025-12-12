@@ -104,3 +104,8 @@ Academic partnerships
 Abdurhman Mussbah
 Founder – Seven Loops Academy
 Abu Dhabi, UAE
+
+------
+Screenshot 
+
+<img width="727" height="270" alt="image" src="https://github.com/user-attachments/assets/af938b35-a0c6-4715-af7f-552af4e6d1c7" />
